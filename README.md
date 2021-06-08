@@ -3,3 +3,6 @@ We are company based in India and UAE. We are working on softwares needed by NGO
 
 # Our Softwares
 Generic Charity Software
+
+# Contact Us
+mustaq.ahmed@raziqtechnologies.com
